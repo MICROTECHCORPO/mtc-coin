@@ -1,7 +1,7 @@
-# MTC-Coin
+# MTC Coin
 
 ## PL
-Projekt ekosystemu MicroTechCorpo rozwijany w skali globalnej. Repozytorium zawiera dokumentację, model biznesowy, strukturę technologiczną oraz materiały inwestorskie.
+Warstwa płatności cyfrowych, portfela i wymiany aktywów dla całego ekosystemu.
 
 ## EN
-Global MicroTechCorpo ecosystem project. This repository contains documentation, business model, technical structure and investment materials.
+Digital payment, wallet and asset exchange layer for the entire ecosystem.
